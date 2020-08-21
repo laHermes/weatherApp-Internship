@@ -55,7 +55,6 @@ export const Card = styled.div`
 `;
 
 export const CardError = styled.div`
-
 width: 90%;
 height: 100px;
 background-color: red;
